@@ -6,7 +6,8 @@ Installation: Simply search `Kanagawa Paper` in the Obsidian Communitiy Themes a
 ## Dark Mode
 ![](dark_high.jpg)
 
-## Light Mode (Lotus with Paper-White-Background)
+## Light Mode 
+(not really optimized, mainly did it for the dark mode)
 
 ![](light_high.jpg)
 
