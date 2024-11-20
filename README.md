@@ -4,11 +4,11 @@ This is a [Kanagawa Paper](https://github.com/sho-87/kanagawa-paper.nvim) theme 
 Installation: Simply search `Kanagawa Paper` in the Obsidian Communitiy Themes and Install. Or if manually, copy the `obsidian.css` file to your vault directory and reload Obsidian for it to take effect.
 
 ## Dark Mode
-![](dark_high.png)
+![](dark_high.jpg)
 
 ## Light Mode (Lotus with Paper-White-Background)
 
-![](light_high.png)
+![](light_high.jpg)
 
 ### Bump Version
 
