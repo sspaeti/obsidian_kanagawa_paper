@@ -21,4 +21,4 @@ npm run version
 
 ---
 
-*Check also my other Theme I created, [Kanagawa](https://github.com/sspaeti/obsidian_kanagawa/), [Rosé Pine](https://github.com/sspaeti/obsidian_rose_pine/).*
+*Check also my other Theme I created, [Kanagawa](https://github.com/sspaeti/obsidian_kanagawa/), [Rosé Pine](https://github.com/sspaeti/obsidian_rose_pine/), [Osaka Jade](https://github.com/sspaeti/obsidian_osaka_jade).*
